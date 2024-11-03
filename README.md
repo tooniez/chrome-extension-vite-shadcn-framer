@@ -25,6 +25,7 @@ A comprehensive boilerplate for building and Chrome extensions with Vite and Sha
 
 ## 📁 Project Structure
 
+```shell
 ├── src/ # Source files
 │ ├── assets/ # Images and static assets
 │ ├── components/ # React components
@@ -40,7 +41,7 @@ A comprehensive boilerplate for building and Chrome extensions with Vite and Sha
 ├── tailwind.config.js # Tailwind CSS configuration
 ├── postcss.config.js # PostCSS configuration
 └── package.json # Project dependencies and scripts
-
+```
 ## 🛠️ Getting Started
 
 ### Prerequisites
